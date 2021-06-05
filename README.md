@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=qz267&theme=monokai&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **qz267/qz267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
